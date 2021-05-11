@@ -1,0 +1,693 @@
+{
+    "staffLevel": [{
+            "value": 46,
+            "type": "Senior"
+        },
+        {
+            "value": 15,
+            "type": "Junior"
+        },
+        {
+            "value": 39,
+            "type": "Middle"
+        }
+    ],
+
+    "project": [{
+            "value": 54,
+            "type": "Đang làm dự án"
+        },
+        {
+            "value": 19,
+            "type": "Đang trainning"
+        },
+        {
+            "value": 27,
+            "type": "Đang free"
+        }
+    ],
+    
+    "personnelchange": [{
+        "name": "NV mới",
+        "month": "Tháng 1",
+        "members": 2
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 2",
+        "members": 3
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 3",
+        "members": 4
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 4",
+        "members": 5
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 5",
+        "members": 6
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 6",
+        "members": 7
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 7",
+        "members": 8
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 8",
+        "members": 9
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 9",
+        "members": 10
+    },
+    {
+        "name": "NV mới",
+        "month": "Tháng 10",
+        "members": 11
+    }
+    ,
+    {
+        "name": "NV mới",
+        "month": "Tháng 11",
+        "members": 12
+    }
+    ,
+    {
+        "name": "NV mới",
+        "month": "Tháng 12",
+        "members": 13
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 1",
+        "members": 4
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 1",
+        "members": 5
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 2",
+        "members": 6
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 3",
+        "members": 7
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 4",
+        "members": 8
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 5",
+        "members": 3
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 6",
+        "members": 2
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 7",
+        "members": 2
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 8",
+        "members": 5
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 9",
+        "members": 6
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 10",
+        "members": 7
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 11",
+        "members": 11
+    }
+    ,
+    {
+        "name": "NV nghỉ việc",
+        "month": "Tháng 12",
+        "members": 6
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 1",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 2",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 3",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 4",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 5",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 6",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 7",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 8",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 9",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 10",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 11",
+        "members": 2
+    }
+    ,
+    {
+        "name": "Tổng NV",
+        "month": "Tháng 12",
+        "members": 2
+    }
+
+],
+    "humans": [{
+            "name": "Nguyễn Văn D",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "2",
+            "age": "8",
+            "id": 10
+        },
+        {
+            "name": "Ông A",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "12",
+            "age": "1",
+            "id": 14
+        },
+        {
+            "name": "1",
+            "nameproject": " ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "3",
+            "age": "2",
+            "id": 15
+        },
+        {
+            "name": "Minh",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "19",
+            "age": "19",
+            "id": 16
+        },
+        {
+            "name": "3",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "3",
+            "age": "3",
+            "id": 17
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 18
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 19
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 20
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 21
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 22
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 23
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 24
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 25
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 26
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 27
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 28
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 29
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 30
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 31
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 32
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 33
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 34
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 35
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 36
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 37
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 38
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 39
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 40
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 41
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 42
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 43
+        },
+        {
+            "name": "123123",
+            "nameproject": "ECS(20/09/2020 - 20/022021)",
+            "topproject": "CảnhLV",
+            "manage": "LượngKAM",
+            "customer": "FabbiJSC",
+            "position": "Developer",
+            "startdate": "20/09/2020",
+            "outdate": "20/09/2020",
+            "status": "hoạt động",
+            "score": "123123123",
+            "age": "123123123",
+            "id": 44
+        }
+    ]
+}

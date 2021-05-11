@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+
+/.vscode
+/node_modules
+/.eslintcache
+
+/app
+/dist
+/Development.provisionprofile

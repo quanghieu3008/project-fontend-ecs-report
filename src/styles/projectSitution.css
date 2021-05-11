@@ -1,0 +1,110 @@
+.container {
+    padding: 0 200px;
+}
+
+.wrap-human-container {
+    /*border: 1px solid #000;*/
+}
+
+.wrap-human-container .chart-item {
+    margin-top: 30px;
+    text-align: center;
+    /* border: 1px solid #000; */
+}
+
+
+.wrap-human-component {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.wrap-human-component .human-field {
+    margin-top: 20px;
+    /* width: 100%;
+    display: flex;
+    justify-content: center; */
+}
+
+.wrap-human-component .human-field > input {
+    margin: 0 20px;
+}
+
+.wrap-human-component .human-field > div {
+    text-align: center;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.wrap-human-component table {
+    border-collapse: collapse;
+}
+
+.wrap-human-component table tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.wrap-human-component table tr td:first-child {
+    min-width: 80px;
+    text-align: center;
+}
+
+.wrap-human-component table th, td {
+    border: 1px solid #888;
+    padding: 5px;
+}
+
+.wrap-human-component table td {
+    min-width: 200px;
+}
+
+.wrap-human-component table td.action-cell button:nth-child(odd) {
+    margin-right: 5px;
+}
+
+.wrap-human-component .wrap-action-form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wrap-human-component-img {
+    height: 300px;
+    width: 100%;
+}
+
+.wrap-human-component-form {
+    margin-top: 40px;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+.wrap-human-date-picker {
+    width: 100%;
+}
+
+.wrap-human-submit-search {
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.wrap-human-component-flex-row .ant-col-12 {
+    max-width: 80%;
+}
+
+.wrap-human-submit-search .ant-col-5 {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.modal-humans-resource {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modal-humans-resource .humans-resource-left {
+    width: 40%;
+}
+
+.modal-humans-resource .humans-resource-right {
+    width: 40%;
+}
